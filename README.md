@@ -1,5 +1,7 @@
 # video-platform
 
+https://des86532.github.io/video-platform/
+
 ## Project setup
 ```
 npm install
